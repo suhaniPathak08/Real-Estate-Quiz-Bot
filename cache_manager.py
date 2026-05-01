@@ -1,8 +1,7 @@
 """
-cache_manager.py
-----------------
-Handles persistent caching of generated questions and evaluations
-to minimize API calls and handle quota limits gracefully.
+cache_manager.py - caching of generated questions and evaluations
+to minimize API calls and handle quota limits.
+
 """
 
 import json
